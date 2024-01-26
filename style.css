@@ -1,6 +1,4 @@
-#container1 {
-    
-}
+
 .div1 {
     font-size: 15px;
     border-style: solid;
@@ -19,4 +17,9 @@
     border-style: solid;
     border-color: red;
     color: red;
+}
+.heading1 {
+    border-style: dotted;
+    border-color: red;
+    display: inline;
 }
